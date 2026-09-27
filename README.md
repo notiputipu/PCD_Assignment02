@@ -1,5 +1,4 @@
-# PCD Assignment 2 - simple version
-
+# PCD Assignment 2 
 Name: Farrel Anggito Baswara Marpaung 
 NIM: 25/559096/PA/23506
 
